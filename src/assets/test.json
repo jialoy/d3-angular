@@ -1,0 +1,40 @@
+{
+  "Europe": {
+    "Northern Europe": [
+      {
+        "country": "Denmark",
+        "population": 5900000,
+        "wikipedia": "https://en.wikipedia.org/wiki/Denmark",
+        "flag": "https://flagcdn.com/w320/dk.png",
+        "land_area_km2": 42924
+      }
+    ],
+    "Western Europe": [
+      {
+        "country": "Austria",
+        "population": 9100000,
+        "wikipedia": "https://en.wikipedia.org/wiki/Austria",
+        "flag": "https://flagcdn.com/w320/at.png",
+        "land_area_km2": 83879
+      }
+    ],
+    "Southern Europe": [
+      {
+        "country": "Albania",
+        "population": 2800000,
+        "wikipedia": "https://en.wikipedia.org/wiki/Albania",
+        "flag": "https://flagcdn.com/w320/al.png",
+        "land_area_km2": 28748
+      }
+    ],
+    "Eastern Europe": [
+      {
+        "country": "Belarus",
+        "population": 9400000,
+        "wikipedia": "https://en.wikipedia.org/wiki/Belarus",
+        "flag": "https://flagcdn.com/w320/by.png",
+        "land_area_km2": 207600
+      }
+    ]
+  }
+}
