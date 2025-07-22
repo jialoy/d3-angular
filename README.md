@@ -29,7 +29,7 @@ Or extract the zipped version to a folder
 ### 2. Navigate to the project root directory
 
 ```bash
-cd angular-d3
+cd d3-angular
 ```
 
 ### 3. Install dependencies
